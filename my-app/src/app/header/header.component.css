@@ -1,0 +1,26 @@
+#background-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(0,0,0,0.4),transparent), url("./assets/images/home-hero.jpg") no-repeat;
+    background-size: cover,cover;
+    min-height: 100vh;
+}
+
+.logo-img {
+    align-items:center;
+
+}
+
+.nav-div{
+    display:flex;
+    justify-content: space-between;
+}
+
+ul li{
+    display:inline;
+}
+
+.white-logo{
+    width: 100px;
+}
