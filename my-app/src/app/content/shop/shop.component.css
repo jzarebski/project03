@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+}
+
+.container {
+    display:flex;
+    align-content:center;
+}
+
+.container img{
+    width:25%;
+
+}
+.shop-products {
+    text-align: center;
+      }
+.shop-products p {
+    text-align: center;
+}

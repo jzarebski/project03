@@ -15,12 +15,18 @@
 .nav-div{
     display:flex;
     justify-content: space-between;
+    position: absolute;
 }
 
 ul li{
     display:inline;
+
 }
 
 .white-logo{
     width: 100px;
+}
+
+li {
+    color:white;
 }
