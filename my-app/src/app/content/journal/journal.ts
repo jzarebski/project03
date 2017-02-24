@@ -7,4 +7,4 @@ export class Journal {
     image:string = "";
     date:string = "";
     content:string = "";
-};
+}
